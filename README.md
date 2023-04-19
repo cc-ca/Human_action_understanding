@@ -21,9 +21,9 @@ tensorflow: 2.11.0
 Python: 3.8.10
 
 # Members of the group
-CAPTAL Célestin
-HERBEAU Paul
-LAROUZIERE Dorian
-MANOUVRIEZ Louis
-MAURY Rodolphe
-WONGRATTANAPIPAT Warissaporn
+CAPTAL Célestin,
+HERBEAU Paul,
+LAROUZIERE Dorian,
+MANOUVRIEZ Louis,
+MAURY Rodolphe,
+WONGRATTANAPIPAT Warissaporn.
