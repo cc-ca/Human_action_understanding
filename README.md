@@ -2,7 +2,7 @@
 This project aim to do video Human Action Recognition with AI.
 
 # Solutions
-Two major tools are proposed in each branch.
+Two major tools are proposed in each branche.
 
 ### CNN/RNN
 We have made a model using Convolutional Neural Network and Recurent Neural Network where we achieved 61.2% top1 accuracy.
