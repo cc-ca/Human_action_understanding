@@ -7,7 +7,7 @@ Two major tools are proposed in each branch.
 ### CNN/RNN
 We have made a model using Convolutional Neural Network and Recurent Neural Network where we achieved 61.2% top1 accuracy.
 
-## CLIP
+### CLIP
 The second solution is using Contrastive Language-Image Pre-training. We obtained 74.29% top1 accuracy with this one.
 
 # Dataset
