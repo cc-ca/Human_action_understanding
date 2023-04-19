@@ -17,6 +17,7 @@ We have used the Kinetics 700 dataset but we have selected only 12 different lab
 
 # Use
 These versions are what have been used for the project :
+
 Google Colab
 tensorflow: 2.11.0
 Python: 3.8.10
